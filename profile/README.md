@@ -20,7 +20,7 @@ SwiftHeberg est une plateforme innovante d'hébergement de sites web, de serveur
 
 ## 🖌️ Charte Graphique
 
-// futur lien vers la charte graphique 
+[ Branding SwiftHeberg ](https://www.swiftheberg.com/branding)
 
 ---
 
@@ -28,7 +28,7 @@ SwiftHeberg est une plateforme innovante d'hébergement de sites web, de serveur
 
 - **Backend** : WHMCS pour la gestion des clients et offres.
 - **Frontend** : Site vitrine développé avec [Next.js](https://nextjs.org/).
-- **Gestion des jeux** : Planification d'un panel de gestion inspiré de [Pterodactyl](https://pterodactyl.io/).
+- **Gestion des jeux** : Utilisation de [Pterodactyl](https://pterodactyl.io/) et planification d'un panel de gestion Perso.
 - **API** : Intégration des produits WHMCS via API pour une expérience fluide.
 
 ---
@@ -39,18 +39,12 @@ SwiftHeberg est une plateforme innovante d'hébergement de sites web, de serveur
 - **Technologies** : Next.js, React, Tailwind CSS.
 - **Objectif** : Présenter nos offres de manière claire et moderne.
 
-### 2. **Module WHMCS** *(En développement)* 
-- **Description** : Automatiser la gestion des clients et des paiements.
-
-### 3. **Panel de Gestion des Jeux** *(En développement)* 
-- **Description** : Offrir un outil intuitif pour gérer les serveurs de jeux.
-
 ---
 
 ## 🛠️ Contribution
 
-Pour le moment, nous n'acceptons pas les collaborations publiques. Cependant, nous sommes ravis de recevoir vos suggestions ou idées d'améliorations. Voici comment vous pouvez nous aider :  
-1. **Signaler des problèmes** : Utilisez l'onglet "Issues" pour nous informer de bugs ou partager vos idées.  
+Nous n'acceptons pas les collaborations publiques. Cependant, nous sommes ravis de recevoir vos suggestions ou idées d'améliorations. Voici comment vous pouvez nous aider :  
+1. **Signaler des problèmes** : Utilisez les forums "bug-report" ou "suggestions" sur notre **[Discord](https://discord.gg/xhjQ4Xpy73)** pour nous informer de bugs ou partager vos idées.  
 2. **Participer à la discussion** : Rejoignez-nous pour discuter de l'évolution de SwiftHeberg et partager vos retours.
 
 ---
