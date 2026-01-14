@@ -1,61 +1,23 @@
-# SwiftHeberg 🌿☁️
+# SwiftHeberg 🌿
 
-SwiftHeberg est une plateforme innovante d'hébergement de sites web, de serveurs de jeux et de VPS, avec une vision écologique. Nous combinons performance, fiabilité, et engagement pour la planète afin d'offrir des solutions durables à nos clients.
+Hébergement web, serveurs de jeux et VPS - avec un engagement écologique.
 
-## 🌟 Notre Mission
+## Nos services
 
-1. **Performance et Fiabilité** : Offrir des services d'hébergement performants et adaptés aux besoins de nos clients, qu'ils soient développeurs, gamers, ou entreprises.
-2. **Engagement Écologique** : Une partie de nos revenus est reversée à des actions pour le climat via [Stripe Climate](https://stripe.com/climate). À terme, nous prévoyons de construire des datacenters écologiques, réduisant notre empreinte carbone.
-3. **Accessibilité** : Une interface moderne et intuitive pour une gestion simplifiée.
+- **Hébergement web** - Sites vitrine, e-commerce, applications
+- **Serveurs de jeux** - Infrastructure optimisée pour le gaming
+- **VPS** - Serveurs privés virtuels flexibles
 
----
+## Pourquoi SwiftHeberg ?
 
-## 🚀 Offres
+🌍 **Engagement climat** - Une partie de nos revenus finance des actions climatiques via [Stripe Climate](https://climate.stripe.com/CSgrsU)
 
-- **Hébergement de sites web** : Pour particuliers et entreprises.
-- **Serveurs de jeux** : Une infrastructure fiable pour vos parties en ligne.
-- **VPS** : Serveurs privés virtuels pour des besoins personnalisés.
+⚡ **Performance** - Infrastructure moderne et fiable
 
----
+🇫🇷 **Support francophone** - Équipe réactive basée en France
 
-## 🖌️ Charte Graphique
+## Liens
 
-[ Branding SwiftHeberg ](https://www.swiftheberg.com/branding)
-
----
-
-## 🔧 Technologie
-
-- **Backend** : WHMCS pour la gestion des clients et offres.
-- **Frontend** : Site vitrine développé avec [Next.js](https://nextjs.org/).
-- **Gestion des jeux** : Utilisation de [Pterodactyl](https://pterodactyl.io/) et planification d'un panel de gestion Perso.
-- **API** : Intégration des produits WHMCS via API pour une expérience fluide.
-
----
-
-## 📂 Projets Actuels
-
-### 1. **Site Vitrine** *(En développement)* 
-- **Technologies** : Next.js, React, Tailwind CSS.
-- **Objectif** : Présenter nos offres de manière claire et moderne.
-
----
-
-## 🛠️ Contribution
-
-Nous n'acceptons pas les collaborations publiques. Cependant, nous sommes ravis de recevoir vos suggestions ou idées d'améliorations. Voici comment vous pouvez nous aider :  
-1. **Signaler des problèmes** : Utilisez les forums "bug-report" ou "suggestions" sur notre **[Discord](https://discord.gg/xhjQ4Xpy73)** pour nous informer de bugs ou partager vos idées.  
-2. **Participer à la discussion** : Rejoignez-nous pour discuter de l'évolution de SwiftHeberg et partager vos retours.
-
----
-
-## 📧 Contact
-
-Pour toute question ou suggestion, vous pouvez nous contacter à : **contact@swiftheberg.com** <br>
-Ou rejoindre nôtre serveur discord : **[SwiftHeberg](https://discord.gg/xhjQ4Xpy73)**
-
----
-
-## 🏅 Merci !
-
-Merci de faire partie de notre aventure ! Ensemble, construisons un futur où technologie et écologie cohabitent harmonieusement. 🌍💚
+- 🌐 [swiftheberg.com](https://www.swiftheberg.com)
+- 💬 [Discord](https://discord.gg/xhjQ4Xpy73)
+- 📧 contact@swiftheberg.com
